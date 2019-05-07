@@ -1,0 +1,16 @@
+{
+  "name": "predictionapp",
+  "version": "1.0.0",
+  "description": "College Football Win Prediction App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Oliver",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
